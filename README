@@ -1,5 +1,5 @@
 Compile Instructions: 
-This project was compiled using the GNU g++ compiler and requires map.txt to be in the same folder as MazeSolver.cpp
+This project was compiled using the GNU g++ compiler and requires map.txt to be in the same folder as MazeBot.cpp
 
 Information:
 This project uses Breadth First Search (BFS), Depth First Search (DFS) and A * Search (AS) search methods in order to solve nxn mazes. 
